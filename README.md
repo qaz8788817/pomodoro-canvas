@@ -1,6 +1,3 @@
-# pomodoro-canvas
-一個任務倒數計時的時鐘
-
 # ⏱️ Prompt-Based Pomodoro Canvas
 
 > **A Minimalist, Keyboard-Driven Desktop Pomodoro Timer Featuring Dynamic Auto-Topmost Window Scaling.**
